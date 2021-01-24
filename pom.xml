@@ -46,8 +46,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:ebolart/sfg-pet-clinic.git</developerConnection>
-	  	<tag>HEAD</tag>
-  </scm>
+		<developerConnection>scm:git:git+ssh:git@github.com:ebolart/sfg-pet-clinic.git</developerConnection>
+  	</scm>
 
 </project>
